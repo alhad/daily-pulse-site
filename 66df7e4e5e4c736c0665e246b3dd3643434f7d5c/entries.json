@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2026-07-07",
+    "html": "<h1>Monday, 7 July 2026</h1>\n<p>Social obligations ate most of the day, leaving only a narrow window for focused work. Output was limited, but the reading got done.</p>\n<h2>What got done</h2>\n<ul>\n<li>Finished Chapter 1 of <em>Designing Data-Intensive Applications</em> — system design prep underway</li>\n<li>Published daily log entry to the daily-pulse site</li>\n</ul>\n<h2>In progress</h2>\n<ul>\n<li><em>Designing Data-Intensive Applications</em> — Chapter 1 complete, rest of book ahead</li>\n</ul>\n<h2>Areas touched</h2>\n<ul>\n<li>System design study</li>\n<li>Daily-pulse site</li>\n</ul>\n"
+  },
+  {
+    "date": "2026-07-06",
+    "html": "<h1>Sunday, July 6 2026</h1>\n<p>A setup day — new infrastructure laid down and a couple of loose ends caught up on, with budget work partially through.</p>\n<h2>What got done</h2>\n<ul>\n<li>Stood up the daily note infrastructure and wrote a startup notes doc</li>\n<li>Initialized the <code>daily-pulse-site</code> repo and published logs for both July 6 and July 7 (with a correction replacing a misfiled 2026-07-07 entry)</li>\n<li>Built the <code>daily-pulse</code> publisher tool, including support for an optional date argument to handle backdated entries</li>\n<li>Caught up Bank of America transactions in the budget</li>\n</ul>\n<h2>In progress</h2>\n<ul>\n<li>American Express budget reconciliation started but not finished</li>\n</ul>\n<h2>Areas touched</h2>\n<ul>\n<li>Daily note / logging infrastructure</li>\n<li><code>daily-pulse</code> + <code>daily-pulse-site</code> tooling</li>\n<li>Personal budget (Bank of America, American Express)</li>\n</ul>"
+  }
+]

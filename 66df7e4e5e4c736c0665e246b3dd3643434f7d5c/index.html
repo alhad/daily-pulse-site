@@ -5,19 +5,66 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Daily Log</title>
 <style>
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 480px; margin: 56px auto; padding: 0 24px; color: #1a1a1a; line-height: 1.65; }
-  h1 { font-size: 1.4rem; font-weight: 700; margin-bottom: 24px; }
-  ul { list-style: none; padding: 0; margin: 0; }
-  li { margin-bottom: 10px; }
-  a { color: #1a56db; text-decoration: none; }
-  a:hover { text-decoration: underline; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 660px; margin: 56px auto; padding: 0 24px; color: #1a1a1a; line-height: 1.65; }
+  h1.site-title { font-size: 1.4rem; font-weight: 700; margin-bottom: 36px; }
+  .date { font-size: 1.3rem; font-weight: 700; margin-bottom: 20px; }
+  .date a { color: inherit; text-decoration: none; }
+  .date a:hover { text-decoration: underline; }
+  h2 { font-size: 0.95rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: #555; margin: 24px 0 8px; }
+  ul { padding-left: 18px; margin: 0; }
+  li { margin-bottom: 5px; }
+  p { margin: 0 0 14px; }
+  hr { border: none; border-top: 1px solid #e5e7eb; margin: 40px 0; }
+  .nav { margin-top: 48px; padding-top: 16px; border-top: 1px solid #e5e7eb; font-size: 0.85rem; display: flex; justify-content: space-between; }
+  .nav a { color: #888; text-decoration: none; }
+  .nav a:hover { color: #1a1a1a; }
 </style>
 </head>
 <body>
-<h1>Daily Log</h1>
+<h1 class="site-title">Daily Log</h1>
+<article>
+<div class="date"><a href="2026-07-07.html">Tuesday, July 7, 2026</a></div>
+<h1>Monday, 7 July 2026</h1>
+<p>Social obligations ate most of the day, leaving only a narrow window for focused work. Output was limited, but the reading got done.</p>
+<h2>What got done</h2>
 <ul>
-  <li><a href="2026-07-07.html">Tue, Jul 7, 2026</a></li>
-  <li><a href="2026-07-06.html">Mon, Jul 6, 2026</a></li>
+<li>Finished Chapter 1 of <em>Designing Data-Intensive Applications</em> — system design prep underway</li>
+<li>Published daily log entry to the daily-pulse site</li>
 </ul>
+<h2>In progress</h2>
+<ul>
+<li><em>Designing Data-Intensive Applications</em> — Chapter 1 complete, rest of book ahead</li>
+</ul>
+<h2>Areas touched</h2>
+<ul>
+<li>System design study</li>
+<li>Daily-pulse site</li>
+</ul>
+
+</article>
+<hr>
+<article>
+<div class="date"><a href="2026-07-06.html">Monday, July 6, 2026</a></div>
+<h1>Sunday, July 6 2026</h1>
+<p>A setup day — new infrastructure laid down and a couple of loose ends caught up on, with budget work partially through.</p>
+<h2>What got done</h2>
+<ul>
+<li>Stood up the daily note infrastructure and wrote a startup notes doc</li>
+<li>Initialized the <code>daily-pulse-site</code> repo and published logs for both July 6 and July 7 (with a correction replacing a misfiled 2026-07-07 entry)</li>
+<li>Built the <code>daily-pulse</code> publisher tool, including support for an optional date argument to handle backdated entries</li>
+<li>Caught up Bank of America transactions in the budget</li>
+</ul>
+<h2>In progress</h2>
+<ul>
+<li>American Express budget reconciliation started but not finished</li>
+</ul>
+<h2>Areas touched</h2>
+<ul>
+<li>Daily note / logging infrastructure</li>
+<li><code>daily-pulse</code> + <code>daily-pulse-site</code> tooling</li>
+<li>Personal budget (Bank of America, American Express)</li>
+</ul>
+</article>
+
 </body>
 </html>
