@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-07-09",
-    "html": "<p>Light maintenance day — one clean-up commit and no notes left behind.</p>\n<h2>What got done</h2>\n<ul>\n<li>Removed duplicate date headings from the <strong>2026-07-06</strong> and <strong>2026-07-07</strong> entries in <code>daily-pulse-site</code></li>\n</ul>\n<h2>Areas touched</h2>\n<ul>\n<li><code>daily-pulse-site</code> (formatting / data integrity)</li>\n</ul>\n<h2>Commits</h2>\n<p><strong>daily-pulse-site</strong></p>\n<ul>\n<li>Strip duplicate date heading from 2026-07-06 and 2026-07-07 entries</li>\n</ul>\n"
-  },
-  {
     "date": "2026-07-08",
     "html": "<p>Project Exartisi anchored most of the day, with a time-consuming visit cutting into the middle of it.</p>\n<h2>What got done</h2>\n<ul>\n<li>Worked on <strong>Project Exartisi</strong> across two sessions — morning and late afternoon/evening</li>\n<li>Pushed daily log entries for <strong>2026-07-07 and 2026-07-08</strong> to the daily-pulse-site (two commits for 07-07 suggest a revision)</li>\n<li>Kept the <strong>Duolingo French streak alive at 156 days</strong> with a lesson</li>\n</ul>\n<h2>In progress</h2>\n<ul>\n<li><strong>Designing Data-Intensive Applications, Chapter 2</strong> — started but not finished</li>\n</ul>\n<h2>Areas touched</h2>\n<ul>\n<li>Project Exartisi</li>\n<li>Reading (DDIA Ch. 2)</li>\n<li>Daily logging / site maintenance</li>\n<li>Obsidian daily notes</li>\n<li>Language learning (French)</li>\n</ul>\n"
   },
